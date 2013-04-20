@@ -1,0 +1,20 @@
+[
+{
+  "modid": "mm1",
+  "name": "Minecraft Mod 1",
+  "description": "Learning to Minecraft Mod",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Linedsaucer963",
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
